@@ -1,6 +1,16 @@
 <img style="float:left" height="128px"   src="/imaxes/logo.png" alt="" />
 
 # Bootstrap
+
+
+buenos dias, bienvenidos a mi trabajo de bootstrap. vamos a aprobar xd
+
+
+
+
+
+
+
 Aprendendo a traballar con GitHub, markdown e  co framework Bootstrap.
 
 - [x] Fai un fork deste repositorio
