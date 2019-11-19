@@ -1,4 +1,4 @@
-<img style="float:left" height="128px"   src="/imaxes/descarga.jpg" alt="" />
+<img style="float:left" height="128px"   src="descarga.jpg" alt="" />
 
 # Bootstrap
 
